@@ -1,17 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Jahidul Hasan
+#### I am Back-End Developer (and occasionally  do Front-end)
+![I am Back-End Developer (and occasionally  do Front-end)](https://github.com/HasanJahidul/HasanJahidul/blob/main/github%20Banner%20of%20Jahidul%20Hasan.mp4)
 
-<!--
-**HasanJahidul/HasanJahidul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanJahidul)](https://github.com/anuraghazra/github-readme-stats)
+I’m a self learned software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on my study.
 
-Here are some ideas to get you started:
+Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HasanJahidul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahidulhasanjay/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/joy5413)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/k.ra.t.o.s/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JahidulHasanJay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hasanjahidul.github.io/JoyDev/)  
+
