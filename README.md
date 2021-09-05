@@ -17,7 +17,7 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul)](https://github.com/anuraghazra/github-readme-stats)
  -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanJahidul&show_icons=true&count_private=true&theme=tokyonight)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HasanJahidul&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanJahidul&show_icons=true&count_private=true&theme=radical)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HasanJahidul&theme=radical)  
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=HasanJahidul)](https://github.com/ryo-ma/github-profile-trophy) -->
