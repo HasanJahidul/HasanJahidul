@@ -21,4 +21,4 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HasanJahidul)  
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=HasanJahidul)](https://github.com/ryo-ma/github-profile-trophy)
