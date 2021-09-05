@@ -11,6 +11,8 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HasanJahidul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahidulhasanjay/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/joy5413)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/k.ra.t.o.s/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JahidulHasanJay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hasanjahidul.github.io/JoyDev/)  
 
+![Profile views](https://gpvc.arturio.dev/HasanJahidul)  
+
 <!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>  -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,4 +21,4 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HasanJahidul)  
 
-![Profile views](https://gpvc.arturio.dev/HasanJahidul)  
+
