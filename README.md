@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/HasanJahidul)  
 
 ![I am Back-End Developer (and occasionally  do Front-end)](https://github.com/HasanJahidul/HasanJahidul/blob/main/Banner_Jahidul_Hasan.gif)
 ### Hi there 👋,
