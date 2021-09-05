@@ -17,6 +17,6 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanJahidul&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HasanJahidul)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FaiyazShahrear)  
 
 ![Profile views](https://gpvc.arturio.dev/HasanJahidul)  
