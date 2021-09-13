@@ -1,4 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/HasanJahidul)  
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HasanJahidul" id="counter">
+</p>
 
 ![I am Back-End Developer (and occasionally  do Front-end)](https://github.com/HasanJahidul/HasanJahidul/blob/main/Banner_Jahidul_Hasan.gif)
 ### Hi there 👋,
