@@ -34,11 +34,13 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul)](https://github.com/anuraghazra/github-readme-stats)
  -->
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HasanJahidul?cardType=level&theme=tokyonight&Border=1A1B27)](https://git.io/awesome-stats-card)
  <details >	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
  <p align="center">
   <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/HasanJahidul?cardType=level&theme=tokyonight&Border=1A1B27" />
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8"/>
   </p>
 </details>
