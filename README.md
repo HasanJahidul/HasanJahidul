@@ -14,13 +14,13 @@
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
 <p align="center">
-    <a href="https://www.linkedin.com/in/jahidulhasanjay" target="_blank"><img alt="LinkedIn" width="25px" src="./assets/Linkedin.svg"></a>
-    <a href="https://www.instagram.com/k.ra.t.o.s" target="_blank"><img alt="Instagram" width="25px" src="./assets/Instagram.svg"></a>
-    <a href="https://www.facebook.com/joy5413" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
-     <a href="https://twitter.com/JahidulHasanJay" target="_blank"><img alt="Gmail" width="25px" src="./assets/Twitter.svg"></a> 
-    <a href="mailto:jahidul0hasan@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="./assets/Gmail.svg"></a> 
-  <a href="https://github.com/HasanJahidul" target="_blank"><img alt="Gmail" width="25px" src="./assets/github-character.svg"></a> 
-  <a href="https://hasanjahidul.github.io/JoyDev/" target="_blank"><img alt="Gmail" width="25px" src="./assets/earth-globe.svg"></a> 
+    <a href="https://www.linkedin.com/in/jahidulhasanjay" target="_blank"><img alt="LinkedIn" width="30px" src="https://logo.letskhabar.com/img?tool=linkedin&acol=gold"></a>
+    <a href="https://www.instagram.com/k.ra.t.o.s" target="_blank"><img alt="Instagram" width="30px" src="https://logo.letskhabar.com/img?tool=instagram&acol=gold"></a>
+    <a href="https://www.facebook.com/joy5413" target="_blank"><img alt="Facebook" width="30px" src="https://logo.letskhabar.com/img?tool=facebook&acol=gold"></a>
+     <a href="https://twitter.com/JahidulHasanJay" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=twitter&acol=gold"></a> 
+    <a href="mailto:jahidul0hasan@gmail.com" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=gmail&acol=gold"></a> 
+  <a href="https://github.com/HasanJahidul" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=github&bgc=4d8fac&acol=gold"></a> 
+  <a href="https://hasanjahidul.github.io/JoyDev/" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=globe&bgc=4d8fac&acol=gold"></a> 
 </p> 
 </div>
  
