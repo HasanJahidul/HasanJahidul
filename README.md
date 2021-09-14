@@ -44,6 +44,20 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HasanJahidul&theme=tokyonight)
  </details>
  
+ <details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasanJahidul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HasanJahidul&hide_border=true&theme=tokyonight" />
+</details>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=HasanJahidul)](https://github.com/ryo-ma/github-profile-trophy) -->
 
  
