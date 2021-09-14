@@ -121,5 +121,5 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 </p>
 <p>
  ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/hasanjahidul?template=classic&config.timezone=Asia%2FDhaka)
+ ![Metrics](https://metrics.lecoq.io/hasanjahidul?template=classic&config.timezone=Asia%2FDhaka)
  </p>
