@@ -80,11 +80,14 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 <p> 
 <!--  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a> -->
   
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-   
-  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
+  
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white"></a>
+ <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+ <a href="#"><img alt="NODE.JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+ <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
+  <a href="#"><img alt="JQUERY" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
+ <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
   <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 </p>
 
