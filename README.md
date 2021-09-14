@@ -9,14 +9,10 @@
 
 ##### I'm Jahidul Hasan drom Bangladesh.I’m a self learned software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on my study.
 
-Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
- 
- 
- 
 <p align="center">
     <a href="https://www.linkedin.com/in/jahidulhasanjay" target="_blank"><img alt="LinkedIn" width="25px" src="./assets/Linkedin.svg"></a>
     <a href="https://www.instagram.com/k.ra.t.o.s" target="_blank"><img alt="Instagram" width="25px" src="./assets/Instagram.svg"></a>
@@ -26,14 +22,8 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
   <a href="https://github.com/HasanJahidul" target="_blank"><img alt="Gmail" width="25px" src="./assets/github-character.svg"></a> 
   <a href="https://hasanjahidul.github.io/JoyDev/" target="_blank"><img alt="Gmail" width="25px" src="./assets/earth-globe.svg"></a> 
 </p> 
- </div>
-  <br /> <br />
-<div align="center">
-<a href="https://open.spotify.com/embed/playlist/6DDPsthhJTWi0Tnes8kXFo">
-  <img align="left" alt="Spotify Now Playing" src="https://spotify-git-master.sagnikghoshcr7.vercel.app/api/spotify" />
-</a>
 </div>
- <br /> <br />
+ 
 ![Profile views](https://gpvc.arturio.dev/HasanJahidul)
 
 <!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>  -->
