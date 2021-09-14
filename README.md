@@ -33,7 +33,7 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul)](https://github.com/anuraghazra/github-readme-stats)
  -->
- <details>	
+ <details align="center">	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
@@ -41,7 +41,7 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8"/>
 </details>
 
-<details>	
+<details  align="center">	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
