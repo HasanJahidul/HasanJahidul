@@ -2,7 +2,7 @@
 
 ![I am Back-End Developer (and occasionally  do Front-end)](https://github.com/HasanJahidul/HasanJahidul/blob/main/Banner_Jahidul_Hasan.gif)
 
-### Hi world 👋I'm [Jahidul Hasan!](https://hasanjahidul.github.io/JoyDev/),
+### Hello world 👋I'm [Jahidul Hasan!](https://hasanjahidul.github.io/JoyDev/),
 
 #### I am a Back-End Developer (and occasionally do Front-end)
 
@@ -33,19 +33,24 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul)](https://github.com/anuraghazra/github-readme-stats)
  -->
- <details align="center">	
+ <details >	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
+ <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasanJahidul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8"/>
+  </p>
 </details>
 
-<details  align="center">	
+<details >	
+ 
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
+  <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HasanJahidul&hide_border=true&theme=tokyonight" />
+   </p>
 </details>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=HasanJahidul)](https://github.com/ryo-ma/github-profile-trophy) -->
 
@@ -90,18 +95,11 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
 ### 🗄️ Databases and cloud hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+ <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
  <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-    
-<!--  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a> -->
 </p>
+
 
 ### 💻 Software and tools
 
@@ -133,3 +131,5 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
     <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a> -->
     
 </p>
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/hasanjahidul?template=classic&config.timezone=Asia%2FDhaka)
