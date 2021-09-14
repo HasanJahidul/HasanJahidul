@@ -27,7 +27,13 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
   <a href="https://hasanjahidul.github.io/JoyDev/" target="_blank"><img alt="Gmail" width="25px" src="./assets/earth-globe.svg"></a> 
 </p> 
  </div>
-
+  <br /> <br />
+<div align="center">
+<a href="https://open.spotify.com/embed/playlist/6DDPsthhJTWi0Tnes8kXFo">
+  <img align="left" alt="Spotify Now Playing" src="https://spotify-git-master.sagnikghoshcr7.vercel.app/api/spotify" />
+</a>
+</div>
+ <br /> <br />
 ![Profile views](https://gpvc.arturio.dev/HasanJahidul)
 
 <!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>  -->
