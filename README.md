@@ -118,4 +118,9 @@
 ![Metrics](https://metrics.lecoq.io/hasanjahidul?template=classic&pagespeed=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FDhaka)
    
 </p>
+<!-- <p align="center">
+<a href="https://open.spotify.com/embed/playlist/6DDPsthhJTWi0Tnes8kXFo">
+  <img align="left" alt="Spotify Now Playing" src="https://spotify-git-master.sagnikghoshcr7.vercel.app/api/spotify" ></img>
+</a>
+</p> -->
 
