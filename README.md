@@ -36,10 +36,9 @@ Skills: PHP / LARAVEL / REACT / JS / HTML / CSS/ C# /ASP.NET
  -->
  <details >	
   <summary><b>⚡ Github Stats</b></summary>
-
   <br />
  <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasanJahidul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/HasanJahidul?cardType=level&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&Border=1A1B27" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8"/>
   </p>
 </details>
