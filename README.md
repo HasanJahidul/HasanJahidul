@@ -78,7 +78,6 @@
 <p> 
 <!--  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a> -->
   
-  
   <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net&logoColor=white"></a>
  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
  <a href="#"><img alt="NODE.JS" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"></a>
