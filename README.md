@@ -37,6 +37,8 @@
   <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/HasanJahidul?cardType=level&theme=tokyonight&Border=1A1B27&count_private=true" />
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8"/>
+     ![Most Used Languages](https://raw.githubusercontent.com/HasanJahidul/github-stats-transparent/output/generated/languages.svg)
+
   </p>
 </details>
 
