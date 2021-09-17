@@ -114,23 +114,24 @@
    
  
  
- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/hasanjahidul?template=classic&pagespeed=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FDhaka)
-   
+
 </p>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/HasanJahidul/fintechProject--FlyCash-React.JS" title="fintechProject--FlyCash-React.JS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HasanJahidul&repo=fintechProject--FlyCash-React.JS&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/HasanJahidul/Prison-Management-System" title="Prison Management System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HasanJahidul&repo=Prison-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/HasanJahidul/fintechProject--FlyCash-React.JS" title="fintechProject--FlyCash-React.JS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HasanJahidul&repo=fintechProject--FlyCash-React.JS&theme=tokyonight&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/HasanJahidul/Prison-Management-System" title="Prison Management System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HasanJahidul&repo=Prison-Management-System&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+</div> -->
 <!-- <p align="center">
 <a href="https://open.spotify.com/embed/playlist/6DDPsthhJTWi0Tnes8kXFo">
   <img align="left" alt="Spotify Now Playing" src="https://spotify-git-master.sagnikghoshcr7.vercel.app/api/spotify" ></img>
 </a>
 </p> -->
 
+ ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/hasanjahidul?template=classic&pagespeed=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FDhaka)
+   
