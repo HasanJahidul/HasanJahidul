@@ -32,8 +32,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJahidul)](https://github.com/anuraghazra/github-readme-stats)
  -->
- ![Most Used Languages](https://raw.githubusercontent.com/HasanJahidul/github-stats-transparent/output/generated/languages.svg)
-
  <details >	
   <summary><b>⚡ Github Stats</b></summary>
     
