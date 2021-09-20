@@ -19,6 +19,8 @@
     <a href="https://www.facebook.com/joy5413" target="_blank"><img alt="Facebook" width="30px" src="https://logo.letskhabar.com/img?tool=facebook&acol=gold"></a>
      <a href="https://twitter.com/JahidulHasanJay" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=twitter&acol=gold"></a> 
     <a href="mailto:jahidul0hasan@gmail.com" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=gmail&acol=gold"></a> 
+    <a href="https://stackoverflow.com/users/16683462/jahidul-hasan" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=stack-overflow&bgc=4d8fac&acol=gold"></a> 
+    <a href="https://dev.to/hasanjahidul" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=dev&bgc=4d8fac&acol=gold"></a> 
   <a href="https://github.com/HasanJahidul" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=github&bgc=4d8fac&acol=gold"></a> 
   <a href="https://hasanjahidul.github.io/JoyDev/" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=globe&bgc=4d8fac&acol=gold"></a> 
 </p> 
