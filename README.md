@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/HasanJahidul)
 
-![I am Back-End Developer (and occasionally  do Front-end)](https://github.com/HasanJahidul/HasanJahidul/blob/main/Banner_Jahidul_Hasan.gif)
+![I am Back-End Developer (and occasionally  do Front-end)]<!--(https://github.com/HasanJahidul/HasanJahidul/blob/main/Banner_Jahidul_Hasan.gif)-->
 
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I'm [Jahidul Hasan!](https://hasanjahidul.github.io/JoyDev/),
