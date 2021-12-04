@@ -22,7 +22,7 @@
     <a href="https://stackoverflow.com/users/16683462/jahidul-hasan" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=stack-overflow&bgc=4d8fac&acol=gold"></a> 
     <a href="https://dev.to/hasanjahidul" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=dev&bgc=4d8fac&acol=gold"></a> 
   <a href="https://github.com/HasanJahidul" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=github&bgc=4d8fac&acol=gold"></a> 
-  <a href="https://hasanjahidul.github.io/JoyDev/" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=globe&bgc=4d8fac&acol=gold"></a> 
+  <a href="https://hasanjahidul.com/" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=globe&bgc=4d8fac&acol=gold"></a> 
 </p> 
 </div>
  
