@@ -16,7 +16,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/jahidulhasanjay" target="_blank"><img alt="LinkedIn" width="30px" src="https://logo.letskhabar.com/img?tool=linkedin&acol=gold"></a>
     <a href="https://www.instagram.com/k.ra.t.o.s" target="_blank"><img alt="Instagram" width="30px" src="https://logo.letskhabar.com/img?tool=instagram&acol=gold"></a>
-    <a href="https://www.facebook.com/joy5413" target="_blank"><img alt="Facebook" width="30px" src="https://logo.letskhabar.com/img?tool=facebook&acol=gold"></a>
+    <a href="https://www.facebook.com/jahidulhasanjay" target="_blank"><img alt="Facebook" width="30px" src="https://logo.letskhabar.com/img?tool=facebook&acol=gold"></a>
      <a href="https://twitter.com/JahidulHasanJay" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=twitter&acol=gold"></a> 
     <a href="mailto:jahidul0hasan@gmail.com" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=gmail&acol=gold"></a> 
     <a href="https://stackoverflow.com/users/16683462/jahidul-hasan" target="_blank"><img alt="Gmail" width="30px" src="https://logo.letskhabar.com/img?tool=stack-overflow&bgc=4d8fac&acol=gold"></a> 
