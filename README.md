@@ -34,7 +34,7 @@ Spring Boot SDK for ZKTeco biometric & access-control devices using **pull-based
 [![MvnRepository](https://badges.mvnrepository.com/badge/com.hasanjahidul/zkteco-pull-spring-sdk/badge.svg?label=MvnRepository)](https://mvnrepository.com/artifact/com.hasanjahidul/zkteco-pull-spring-sdk)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/HasanJahidul/zkteco-pull-spring-sdk/blob/main/LICENSE)
 
-> **1,100+ downloads · 128 unique sources · 45 companies in production** — 3-month Sonatype stats, growing 4× month-over-month.
+> **1,100+ downloads · 128 unique sources · 45 companies in production** — first 3 months on Maven Central (Sonatype Insights).
 
 ```xml
 <dependency>
