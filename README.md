@@ -87,6 +87,7 @@ Spring Boot SDK for ZKTeco biometric & access-control devices using **pull-based
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
@@ -96,6 +97,9 @@ Spring Boot SDK for ZKTeco biometric & access-control devices using **pull-based
 
 **Observability**
 
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=white)
+![Promtail](https://img.shields.io/badge/Promtail-F46800?logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?logo=zabbix&logoColor=white)
 
