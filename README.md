@@ -17,8 +17,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Years%20Backend-3%2B-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SDK%20Downloads-1.1K%2F3mo-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Companies%20Using-45-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SDK%20Downloads-2.8K%2F3mo-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Companies%20Using-50%2B-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Maven%20Central-Published-c71a36?style=flat-square&logo=apache-maven&logoColor=white"/>
 </p>
 
@@ -34,7 +34,7 @@ Spring Boot SDK for ZKTeco biometric & access-control devices using **pull-based
 [![MvnRepository](https://badges.mvnrepository.com/badge/com.hasanjahidul/zkteco-pull-spring-sdk/badge.svg?label=MvnRepository)](https://mvnrepository.com/artifact/com.hasanjahidul/zkteco-pull-spring-sdk)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/HasanJahidul/zkteco-pull-spring-sdk/blob/main/LICENSE)
 
-> **1,100+ downloads · 128 unique sources · 45 companies in production** — first 3 months on Maven Central (Sonatype Insights).
+> **2,800+ downloads · 50+ companies in production** — combined across current `com.hasanjahidul` namespace (1.1K) and legacy/relocated `io.github.hasanjahidul` namespace (1.7K). 3 months on Maven Central (Sonatype Insights).
 
 ```xml
 <dependency>
