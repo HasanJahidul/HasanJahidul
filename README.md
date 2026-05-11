@@ -51,7 +51,7 @@ Three single-purpose [Model Context Protocol](https://modelcontextprotocol.io) s
 
 | Package | What it does |
 |---------|--------------|
-| [`terminal-history-mcp`](https://www.npmjs.com/package/terminal-history-mcp) | Full-text search over shell history (zsh/bash/fish) via SQLite FTS5; 11-pattern secret scrubber; ±5-min "command chains". Also on MCPize + Smithery `.mcpb` bundle. |
+| [`terminal-history-mcp`](https://www.npmjs.com/package/terminal-history-mcp) | Full-text search over shell history (zsh/bash/fish) via SQLite FTS5; 11-pattern secret scrubber; ±5-min "command chains". Also on MCPize. |
 | [`localhost-mcp`](https://www.npmjs.com/package/localhost-mcp) | Inspect / manage / kill local dev servers via `lsof`/`ps`; port-conflict diagnosis; multi-factor zombie detection; safety-gated killer (dry-run default, refuses PID < 1000) |
 | [`git-insight-mcp`](https://www.npmjs.com/package/git-insight-mcp) | Semantic git queries beyond `git log` — ownership by blame, PR-introduction tracing, co-change analysis, branch hygiene, standup helper |
 
