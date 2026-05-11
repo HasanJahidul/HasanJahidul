@@ -1,8 +1,8 @@
 <h1 align="center">Jahidul Hasan</h1>
 
 <p align="center">
-  <b>Backend Software Engineer</b> · Java / Spring Boot · Microservices · CloudOps<br/>
-  Dhaka, Bangladesh · 3+ yrs shipping scalable SaaS & automated infrastructure
+  <b>Backend Software Engineer</b> · Java / Spring Boot · Microservices · CloudOps · AI Agent Tooling<br/>
+  Dhaka, Bangladesh · 3+ yrs shipping scalable SaaS, automated infrastructure & open-source tooling
 </p>
 
 <p align="center">
@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/SDK%20Downloads-2.8K%2F3mo-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Companies%20Using-50%2B-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Maven%20Central-Published-c71a36?style=flat-square&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-4%20packages-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 </p>
 
 ---
@@ -44,13 +45,23 @@ Spring Boot SDK for ZKTeco biometric & access-control devices using **pull-based
 </dependency>
 ```
 
+### 🤖 MCP Servers — AI agent developer tooling (npm)
+
+Three open-source [Model Context Protocol](https://modelcontextprotocol.io) servers in TypeScript — give AI agents (Claude, Cursor, etc.) structured access to local dev context. Zod-validated, `node:test` covered, CI + Docker, published to npm.
+
+| Package | What it does |
+|---------|--------------|
+| [`terminal-history-mcp`](https://www.npmjs.com/package/terminal-history-mcp) | Full-text search over shell history via SQLite FTS5; secret scrubber; ±5-min "command chains" |
+| [`localhost-mcp`](https://www.npmjs.com/package/localhost-mcp) | Inspect / kill local dev servers via `lsof`/`ps`; port-conflict diagnosis; zombie detection |
+| [`git-insight-mcp`](https://www.npmjs.com/package/git-insight-mcp) | Semantic git queries — ownership by blame, PR-introduction tracing, co-change, branch hygiene |
+
 ---
 
 ## 💼 Currently
 
 - 🏢 **Software Engineer @ Arits Limited** — designing scalable SaaS microservices on Spring Boot + NestJS, owning CloudOps across AWS / DigitalOcean / Proxmox
-- 🛠️ **Maintaining** `zkteco-pull-spring-sdk` (v1.0.3) — pull-based attendance device SDK
-- 📚 **Exploring** Spring AI, MCP servers in Java, AI-augmented backend tooling
+- 🛠️ **Maintaining** `zkteco-pull-spring-sdk` (v1.0.3) on Maven Central + 3 MCP servers on npm
+- 📚 **Exploring** Spring AI, agentic tooling, AI-augmented backend workflows
 
 ---
 
@@ -103,6 +114,14 @@ Spring Boot SDK for ZKTeco biometric & access-control devices using **pull-based
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?logo=zabbix&logoColor=white)
 
+**AI / Tooling**
+
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?logo=anthropic&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
+
 ---
 
 <details>
@@ -127,4 +146,4 @@ Spring Boot SDK for ZKTeco biometric & access-control devices using **pull-based
 - 💬 **Stack Overflow** — [jahidul-hasan](https://stackoverflow.com/users/16683462/jahidul-hasan)
 - ✍️ **dev.to** — [@hasanjahidul](https://dev.to/hasanjahidul)
 
-<sub align="center"><i>Open to backend / cloud-native engineering roles, OSS collaboration, and consulting on Spring Boot, microservices, and CloudOps.</i></sub>
+<sub align="center"><i>Open to backend / cloud-native engineering roles, OSS collaboration, and consulting on Spring Boot, microservices, CloudOps, and AI agent tooling.</i></sub>
