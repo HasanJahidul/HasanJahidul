@@ -45,15 +45,15 @@ Spring Boot SDK for ZKTeco biometric & access-control devices using **pull-based
 </dependency>
 ```
 
-### 🤖 MCP Servers — AI agent developer tooling (npm)
+### 🤖 Dev Context Suite — 3 MCP servers (npm)
 
-Three open-source [Model Context Protocol](https://modelcontextprotocol.io) servers in TypeScript — give AI agents (Claude, Cursor, etc.) structured access to local dev context. Zod-validated, `node:test` covered, CI + Docker, published to npm.
+Three single-purpose [Model Context Protocol](https://modelcontextprotocol.io) servers in TypeScript that give AI coding agents (Claude, Cursor, etc.) memory of a developer's environment. Built solo with Claude Code, zero infra cost. Zod-validated, `node:test` + e2e harness, CI + Docker, MIT. Listed in [Glama](https://glama.ai), [mcp.so](https://mcp.so), and [`awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers).
 
 | Package | What it does |
 |---------|--------------|
-| [`terminal-history-mcp`](https://www.npmjs.com/package/terminal-history-mcp) | Full-text search over shell history via SQLite FTS5; secret scrubber; ±5-min "command chains" |
-| [`localhost-mcp`](https://www.npmjs.com/package/localhost-mcp) | Inspect / kill local dev servers via `lsof`/`ps`; port-conflict diagnosis; zombie detection |
-| [`git-insight-mcp`](https://www.npmjs.com/package/git-insight-mcp) | Semantic git queries — ownership by blame, PR-introduction tracing, co-change, branch hygiene |
+| [`terminal-history-mcp`](https://www.npmjs.com/package/terminal-history-mcp) | Full-text search over shell history (zsh/bash/fish) via SQLite FTS5; 11-pattern secret scrubber; ±5-min "command chains". Also on MCPize + Smithery `.mcpb` bundle. |
+| [`localhost-mcp`](https://www.npmjs.com/package/localhost-mcp) | Inspect / manage / kill local dev servers via `lsof`/`ps`; port-conflict diagnosis; multi-factor zombie detection; safety-gated killer (dry-run default, refuses PID < 1000) |
+| [`git-insight-mcp`](https://www.npmjs.com/package/git-insight-mcp) | Semantic git queries beyond `git log` — ownership by blame, PR-introduction tracing, co-change analysis, branch hygiene, standup helper |
 
 ---
 
