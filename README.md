@@ -108,9 +108,10 @@ Three single-purpose [Model Context Protocol](https://modelcontextprotocol.io) s
 
 **Observability**
 
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=white)
-![Promtail](https://img.shields.io/badge/Promtail-F46800?logo=grafana&logoColor=white)
+![Grafana Alloy](https://img.shields.io/badge/Grafana%20Alloy-F46800?logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?logo=zabbix&logoColor=white)
 
